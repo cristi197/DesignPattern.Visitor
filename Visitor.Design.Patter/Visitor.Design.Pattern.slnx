@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="Visitor.Design.Patter/VisitorDesignPattern.csproj" />
+  <Project Path="VisitorDesignPatternDocExample/VisitorDesignPatternDocExample.csproj" Id="b8147635-db25-4e19-acab-08f08208ade6" />
 </Solution>
