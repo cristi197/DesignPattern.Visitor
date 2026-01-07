@@ -4,7 +4,7 @@
 
 I wanted to explore the **Visitor design pattern** with 2 different real-world representations. Both show how to perform operations on objects without changing the objects themselves.
 
-I use [Refactoring Guru site to understand better.]([https://www.genome.gov/](https://refactoring.guru/design-patterns/visitor))
+I use [Refactoring Guru site to understand better.](https://refactoring.guru/design-patterns/visitor)
 
 ## What's the Visitor Pattern?
 
