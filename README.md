@@ -83,17 +83,31 @@ foreach(var element in elements)
 **Output:**
 ```
 Text Format:
-HELLO
------
+THE VISITOR DESIGN PATTERN
+===========================
 
-World
+INTENT
+------
+
+Represents an operation to be performed on the elements of an object structure without changing the classes on which it operates.
+
+IS IT AMAZING?
+--------------
+
+Yes
 
 ---
 
 Markdown Format:
-# Hello
+# The Visitor Design Pattern
 
-World
+## Intent
+
+Represents an operation to be performed on the elements of an object structure without changing the classes on which it operates.
+
+## Is it amazing?
+
+Yes
 ```
 
 ---
