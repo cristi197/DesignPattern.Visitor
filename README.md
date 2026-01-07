@@ -102,4 +102,17 @@ World
 
 | Feature | Zoo | Document |
 |---------|-----|----------|
-| **Elements** | Lion, Zebra | Title,
+| **Elements** | Lion, Zebra | Title, Subtitle, Content |
+| **Visitors** | Vet, Staff | Text Format, Markdown Format |
+| **Benefit** | Add new roles without changing animals | Add new formats without changing elements |
+
+✨ **Single Responsibility**: Each visitor handles one job
+✨ **Easy to Extend**: New visitor = new file, nothing changes elsewhere
+✨ **Type Safe**: Compiler knows exactly what methods exist
+
+---
+
+## Tech Stack
+
+- **.NET 10**
+- **C# 14.0**
